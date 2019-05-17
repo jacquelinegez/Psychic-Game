@@ -1,0 +1,33 @@
+#header {
+    font-size: 60px;
+    text-align: center;
+     font-family: 'Open Sans', sans-serif;
+    font-family: 'Macondo Swash Caps', cursive; 
+    
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Macondo Swash Caps', cursive; 
+    font-size: 25px;
+ 
+  }
+  
+  .container {
+    position: relative;
+    margin: 0 auto;
+  }
+  
+  .container img {
+      vertical-align: middle;
+    }
+  
+  .container .content {
+    position: absolute;
+    bottom:0;
+    top: 30%;
+    text-align: center;
+    background: rgba(0, 0, 0, 0); 
+    color: #f1f1f1;
+    width: 100%;
+    padding:20px;
+  }
